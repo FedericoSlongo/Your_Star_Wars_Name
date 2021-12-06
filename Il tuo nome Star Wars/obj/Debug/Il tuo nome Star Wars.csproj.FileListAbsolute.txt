@@ -1,0 +1,7 @@
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\bin\Debug\Il tuo nome Star Wars.exe.config
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\bin\Debug\Il tuo nome Star Wars.exe
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\bin\Debug\Il tuo nome Star Wars.pdb
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\obj\Debug\Il tuo nome Star Wars.csproj.AssemblyReference.cache
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\obj\Debug\Il tuo nome Star Wars.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\obj\Debug\Il tuo nome Star Wars.exe
+C:\Users\fslongo\source\repos\Il tuo nome Star Wars\Il tuo nome Star Wars\obj\Debug\Il tuo nome Star Wars.pdb
